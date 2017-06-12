@@ -27,7 +27,6 @@ import com.aaron.download_demo.utils.VersionUtils;
  * 如果wifi下自动更新开关处于打开状态，则在后台服务默认下载，下载完成后自动安装。
  * 如果用户点击忽略此版本，则当前版本将不再提示用户更新。
  *
- *
  * 这个东西是别人写的 Demo 是有问题的，。。。。
  *
  * 楼主我发现个问题，你创建的文件夹交Trinea，当第一次下载后文件夹Trinea里存在一个123456Aaron.apk，

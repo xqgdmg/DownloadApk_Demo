@@ -31,6 +31,8 @@ import okhttp3.Call;
  * 时间: 2016/11/18
  * 功能描述: OkHttp + notification 下载的服务类
  * OkHttp下载框架hongyang大神封装的好的库 链接:https://github.com/hongyangAndroid/okhttputils
+ *
+ * 为什么没有 sdcard 的时候会保存到内部存储呢？？？？？？？？？？？？？
  */
 public class DownloadService extends Service {
 

@@ -152,7 +152,7 @@ public class DownloadService extends Service {
         String message = "当前下载进度: " + progress + "%";
         int AllProgress = 100;
 
-
+         // 下载完成，安装 apk
         Intent intent = null;
         if (progress == 100) {
             message = "下载完毕，点击安装";
